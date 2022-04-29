@@ -10,6 +10,7 @@ ADD_EXECUTABLE(area_calculator
 )
 
 ADD_EXECUTABLE(test
+    src/rectangle.cpp
     tests/test.cpp
 )
 
