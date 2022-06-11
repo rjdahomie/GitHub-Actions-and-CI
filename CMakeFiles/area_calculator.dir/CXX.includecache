@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/rjahr003/lab-04---github-actions-arabi005_rjahr003_lab4/header/rectangle.hpp
+
+/home/csmajs/rjahr003/lab-04---github-actions-arabi005_rjahr003_lab4/src/main.cpp
+iostream
+-
+../header/rectangle.hpp
+/home/csmajs/rjahr003/lab-04---github-actions-arabi005_rjahr003_lab4/header/rectangle.hpp
+
+/home/csmajs/rjahr003/lab-04---github-actions-arabi005_rjahr003_lab4/src/rectangle.cpp
+../header/rectangle.hpp
+/home/csmajs/rjahr003/lab-04---github-actions-arabi005_rjahr003_lab4/header/rectangle.hpp
+
